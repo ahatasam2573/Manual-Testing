@@ -1,6 +1,7 @@
 # Manual Testing
 Manual testing is a process in software development where testers manually execute test cases without the assistance of automated testing tools or scripts. It involves human intervention to identify defects, verify functionality, and ensure the overall quality of a software application.
-
+## Website Link 
+'https://www.mobileaction.co/app/android/us/star-tech-online-shopping-app/com.startech.shop'
 ## Manual Testing needs these to complete a project
 - Test Planning
 - Mind Map Using XMind
@@ -19,7 +20,7 @@ The Star Tech Online App Showcase emerges as a dynamic digital platform that sea
 At first done the test planning for better understanding about the project and overview all over the app. So that when write test cases it helps to understand the functionality.
 
 ### 🔗 Links - Test planning google drive link
-[![Drive Link](https://docs.google.com/document/d/18QSyJimQmZycXkAq9FNz-gxzfeQL6KSu/edit?usp=sharing&ouid=118292871629630455020&rtpof=true&sd=true)]
+'https://docs.google.com/document/d/18QSyJimQmZycXkAq9FNz-gxzfeQL6KSu/edit?usp=sharing&ouid=118292871629630455020&rtpof=true&sd=true'
 
 ## 💡 Mind Maps Using Xmind
 It's graphical visualization for the skeleton of the site. Benefits of this is to understand the functionality with visualization that anyone can understand about the site.
